@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there <a href="https://yigitserin.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<!--
-**yigitserin/yigitserin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+- 📱 I am a Mobile Software Engineer
+- 💻 I do iOS Development with Swift & SwiftUI
+- 🤖 I do Android Development with Kotlin & Java
+- 🎮 I do Game Development with Unity & C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I am a
+
+- ⌨️ Mechanical Keyboard Enthusiast
+- 🚰 Hydrohomie
+- 🏃‍♂ Avid Runner
+- 👾 Game Dev Hobbyist
+
+### I am currently learning
+
+- 🎓 Mobile app architecture patterns
+
+### Contact me at
+
+- ✉️ yigitserin@gmail.com
+- 👨‍💼 <a href="https://www.linkedin.com/in/yigitserin/">Linkedin<a/>
+- 🍺 <a href="https://yigitserin.com/">Website<a/>
