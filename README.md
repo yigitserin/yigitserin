@@ -2,21 +2,10 @@
 
 ### About Me
 
-- 📱 I am a Mobile Software Engineer
+- 📱 I am a Mobile Software Architect & Developer.
 - 💻 I do iOS Development with Swift & SwiftUI
 - 🤖 I do Android Development with Kotlin & Java
 - 🎮 I do Game Development with Unity & C#
-
-### I am a
-
-- ⌨️ Mechanical Keyboard Enthusiast
-- 🚰 Hydrohomie
-- 🏃‍♂ Avid Runner
-- 👾 Game Dev Hobbyist
-
-### I am currently learning
-
-- 🎓 Mobile app architecture patterns
 
 ### Contact me at
 
